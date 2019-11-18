@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_Heroi"
+        android:icon="@drawable/icon_homem_ferro"
+        android:title="Herois" />
+
+    <item
+        android:id="@+id/navigation_Quadrinhos"
+        android:icon="@drawable/livro_aberto"
+        android:title="Quadrinho" />
+
+    <item
+        android:id="@+id/navigation_Autores"
+        android:icon="@drawable/quadro_pessoas"
+        android:title="Autores" />
+
+</menu>
